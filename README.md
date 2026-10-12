@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Dr. HamidReza Savalanpour Ardebili (DrSavalan) 
 
-### AI-Powered Business Architect | PhD, Sharif University  
-#### Credit Scoring & Digital Marketing Strategist | Data-Driven MLM System Designer | Python ML Engineer | Process Optimization Expert | Ansys Fluent Tutor
+### Quant & AI-Powered Business Architect | PhD, Sharif University  
+#### Quantitative Markets Analysis | Credit Scoring & Digital Marketing Strategist | Data-Driven MLM System Designer | Python ML Engineer | Process Optimization Expert | Ansys Fluent Tutor
 
 ---
 
@@ -9,6 +9,7 @@
 
 I'm an AI-powered business architect passionate about leveraging machine learning and data-driven strategies to solve real-world business challenges. With a PhD from Sharif University, I specialize in:
 
+- **Quantitative Markets Analysis**
 - **Credit Scoring Solutions**
 - **Digital Marketing Strategy**
 - **Designing Modern, Data-Driven MLM Systems**
